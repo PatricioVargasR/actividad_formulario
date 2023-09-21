@@ -1,6 +1,7 @@
 # actividad_formulario
 
-A new Flutter project.
+Práctica de formulario en flutter
+Ingresar datos a través de un formulario para ser utilizados en una nueva página
 
 ## Getting Started
 
