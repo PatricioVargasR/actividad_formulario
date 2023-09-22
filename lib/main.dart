@@ -36,7 +36,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Form Page",
+        title: const Text("Página de Formulario",
                 style: TextStyle(color: Colors.yellowAccent)),
         centerTitle: true,
         backgroundColor: Colors.redAccent,

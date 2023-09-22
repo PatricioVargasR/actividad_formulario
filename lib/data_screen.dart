@@ -38,7 +38,7 @@ class _LandingPageState extends State<LandingPage> {
           ),
           const Center(
               child: Text(
-                "Data page",
+                "Página de datos",
                 style: TextStyle(
                     fontSize: 30,
                     fontWeight: FontWeight.bold,
