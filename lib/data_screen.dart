@@ -57,26 +57,41 @@ class _LandingPageState extends State<LandingPage> {
                         fontSize: 20,
                         fontWeight: FontWeight.bold,
                         color: Colors.redAccent)),
+                const SizedBox(
+                  height: 30,
+                ),
                 Text("Apellidos Paterno: ${widget.userApellidop}",
                   style: const TextStyle(
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
                       color: Colors.redAccent)),
+                const SizedBox(
+                  height: 30,
+                ),
                 Text("Apellido Materno: ${widget.userApellidom} ",
                   style: const TextStyle(
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
                       color: Colors.redAccent)),
+                const SizedBox(
+                  height: 30,
+                ),
                 Text("Teléfono: ${widget.userTelefono}",
                   style: const TextStyle(
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
                       color: Colors.redAccent)),
+                const SizedBox(
+                  height: 30,
+                ),
                 Text("Email: ${widget.userEmail}",
                   style: const TextStyle(
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
                       color: Colors.redAccent)),
+                const SizedBox(
+                  height: 30,
+                ),
                 Text("Edad: ${widget.userEdad}",
                   style: const TextStyle(
                       fontSize: 20,
