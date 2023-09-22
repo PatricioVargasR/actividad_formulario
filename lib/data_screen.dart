@@ -88,12 +88,15 @@ class _LandingPageState extends State<LandingPage> {
           const SizedBox(
             height: 50,
           ),
-          ElevatedButton(
+        Padding(
+          padding: const EdgeInsets.only(left: 50.0, right: 50.0),
+          child: ElevatedButton(
               onPressed: () {
                 Navigator.pop(context);
               },
           child: const Text("Logout"),
           ),
+        ),
         ],
       )
     );
