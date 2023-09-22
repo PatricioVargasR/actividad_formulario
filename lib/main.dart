@@ -49,7 +49,7 @@ class _HomePageState extends State<HomePage> {
             height: 30,
           ),
           const Center(child:
-              Text('Form page', style: TextStyle(
+              Text('Página de Formulario', style: TextStyle(
                 fontSize: 30,
                 fontWeight: FontWeight.bold,
                 color: Colors.redAccent),
